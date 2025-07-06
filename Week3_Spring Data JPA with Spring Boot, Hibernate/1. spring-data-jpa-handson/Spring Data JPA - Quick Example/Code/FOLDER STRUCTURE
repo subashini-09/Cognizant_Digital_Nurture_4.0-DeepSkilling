@@ -1,0 +1,17 @@
+studentdemo
+├── src
+│   └── main
+│       ├── java
+│       │   └── com.example.studentdemo
+│       │       ├── StudentDemoApplication.java
+│       │       ├── entity
+│       │       │   └── Student.java
+│       │       ├── repository
+│       │       │   └── StudentRepository.java
+│       │       ├── service
+│       │       │   └── StudentService.java
+│       │       └── controller
+│       │           └── StudentController.java
+│       └── resources
+│           ├── application.properties
+│           └── data.sql (optional)
